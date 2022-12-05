@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 69c75eaea5cf91d42b7268d8e23793a3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_spritesheet_Level
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1329
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d02f3a71d7c4db4c8ebf222c2979fe6
+      internalID: -1258310865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_spritesheet_rogress
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1353
+        width: 534
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7a21c3cdcc7d14fae0e83ab4f6b9d1
+      internalID: 1340035829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_spritesheet_ Advertising
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1772
+        width: 112
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1167e3125dbed4685163c02b71c2d7
+      internalID: -730056084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_spritesheet_Progress
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1782
+        width: 546
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26371102cda3ec45b32aab2f6e2c781
+      internalID: -1671189032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_spritesheet_Button
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1473
+        width: 623
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2443c90a66ab4b448b0ae614f9e2622a
+      internalID: -1860268357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_spritesheet_Restart
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 479
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784642f8dce90f8438d230db8248e3b0
+      internalID: -1639077167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 30835c91712997842937734ba6480abd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ui_spritesheet_ Advertising: -730056084
+      ui_spritesheet_13: -501700518
+      ui_spritesheet_25: -1762509872
+      ui_spritesheet_Restart: -1639077167
+      ui_spritesheet_Level: -1258310865
+      ui_spritesheet_38: -1034983290
+      ui_spritesheet_8: 205691622
+      ui_spritesheet_17: -1343993104
+      ui_spritesheet_26: 1125932927
+      ui_spritesheet_34: 157541041
+      ui_spritesheet_5: 386211477
+      ui_spritesheet_9: -1072010968
+      ui_spritesheet_30: 162936603
+      ui_spritesheet_rogress: 1340035829
+      ui_spritesheet_16: 1681966056
+      ui_spritesheet_27: -1450439253
+      ui_spritesheet_35: -1705398693
+      ui_spritesheet_10: -1762941026
+      ui_spritesheet_29: 1347007630
+      ui_spritesheet_50: -63881822
+      ui_spritesheet_45: 1976278805
+      ui_spritesheet_49: 63841773
+      ui_spritesheet_15: -1953434904
+      ui_spritesheet_43: 1777394008
+      ui_spritesheet_32: -1354134255
+      ui_spritesheet_7: 284700186
+      ui_spritesheet_42: -1964427613
+      ui_spritesheet_23: -1024148285
+      ui_spritesheet_18: -1686550739
+      ui_spritesheet_44: -142964938
+      ui_spritesheet_33: -963182154
+      ui_spritesheet_31: -1079359436
+      ui_spritesheet_4: -900807302
+      ui_spritesheet_24: 1703720568
+      ui_spritesheet_19: -1167750053
+      ui_spritesheet_22: -163780307
+      ui_spritesheet_20: 908937173
+      ui_spritesheet_37: 1909260785
+      ui_spritesheet_39: 733759703
+      ui_spritesheet_48: 429965521
+      ui_spritesheet_46: 1929597489
+      ui_spritesheet_28: -920956158
+      ui_spritesheet_36: -1077301389
+      ui_spritesheet_41: -937893580
+      ui_spritesheet_14: -1508951465
+      ui_spritesheet_47: 1058911760
+      ui_spritesheet_Progress: -1671189032
+      ui_spritesheet_Button: -1860268357
+      ui_spritesheet_21: -887962050
+      ui_spritesheet_40: 595643263
+      ui_spritesheet_6: -628156380
+      ui_spritesheet_11: 1874646235
+      ui_spritesheet_12: 115346606
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
